@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: times new roman;
+  font-size: 300%;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family: times new roman;
+  font-size: 100%;
+   margin-top: 1px;
+  margin-bottom: 5px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+body {
+    text-align: center;
+}
